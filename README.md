@@ -2,8 +2,8 @@
 
 Software Engineer based in Germany.
 
-I have 10+ years of programming experience working with backend systems
-embedded development IIOT and experimental architectures.
+I have 10+ years of programming experience working with backend systems, microservises,
+pipelines embedded development IIOT and experimental architectures.
 
 Currently interested in:
 - Distributed systems
