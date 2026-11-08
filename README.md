@@ -18,13 +18,24 @@ Currently interested in:
 Languages
 - C#
 - C / C++
-- JS
+- JavaScript
+- TypeScript
 
-Backend
-- .NET
+Backend & Integration
+- .NET / ASP.NET Core
 - REST APIs
 - MQTT
-- Message Brokers
+- Message Brokers (RabbitMQ, NServiceBus)
+
+Frontend
+- Vue.js
+- Foundation
+- Vuetify
+
+AI-Assisted Development:
+- AI-assisted coding
+- AI-powered development tools
+- AI-assisted debugging and code review
 
 Tools
 - Git
@@ -49,11 +60,14 @@ Various low-level and hardware related experiments.
 
 ## Links
 
-Website  
+Website and Portfolio 
 https://ledrunning.github.io/
 
+Github mosaic
+https://ledrunning.github.io/githubvue/
+
 LinkedIn  
-https://www.linkedin.com/in/osman-mazinov-lennarovich/
+https://www.linkedin.com/in/osman-mazinov/
 
 GitHub  
 https://github.com/Ledrunning
