@@ -22,4 +22,4 @@ Senior Software Engineer (C# / .NET) based in Germany, focused on backend and di
 - [Image-Uploader](https://github.com/Ledrunning/Image-Uploader): REST API with web and desktop clients
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/osman-mazinov/) · [Portfolio](https://ledrunning.github.io/)
+[Portfolio](https://ledrunning.github.io/)
