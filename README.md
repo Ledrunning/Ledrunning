@@ -1,73 +1,25 @@
 # Hi, I'm Osman
 
-Software Engineer based in Germany.
+Senior Software Engineer (C# / .NET) based in Germany, focused on backend and distributed systems.
+10+ years in software development; commercial C#/.NET since 2017.
 
-I have 10+ years of programming experience working with backend systems, microservises,
-pipelines embedded development IIOT and experimental architectures.
+## Focus
+- Backend services and REST APIs (ASP.NET Core)
+- Microservices and asynchronous messaging
+- System integration and middleware
+- Code quality: code review, static analysis, quality gates
 
-Currently interested in:
-- Distributed systems
-- Microservices
-- Cloud architecture
-- Backend engineering
-
----
-
-## Tech Stack
-
-Languages
-- C#
-- C / C++
-- JavaScript
-- TypeScript
-
-Backend & Integration
-- .NET / ASP.NET Core
-- REST APIs
-- MQTT
-- Message Brokers (RabbitMQ, NServiceBus)
-
-Frontend
-- Vue.js
-- Foundation
-- Vuetify
-
-AI-Assisted Development:
-- AI-assisted coding
-- AI-powered development tools
-- AI-assisted debugging and code review
-
-Tools
-- Git
-- Docker
-- NServiceBus Analyzer
-- Postman
-
----
+## Tech stack
+**Backend & Integration:** C#, .NET, ASP.NET Core, REST, RabbitMQ, NServiceBus, MQTT, Modbus
+**Data:** PostgreSQL, SQL Server, Entity Framework, Dapper, ADO.NET
+**Tools:** Git, Docker, GitHub Actions, SonarQube, Postman
+**Additional:** Vue.js, TypeScript/JavaScript, WPF
 
 ## Projects
-
-🔹 Microservices playground  
-Experimental .NET microservices architecture with API Gateway.
-
-🔹 Facial Detection  
-Desktop application using OpenCV and WPF.
-
-🔹 Embedded experiments  
-Various low-level and hardware related experiments.
-
----
+- [CryptoRates](https://github.com/Ledrunning/CryptoRates): .NET 10 microservices with API Gateway
+- [Modbuska](https://github.com/Ledrunning/Modbuska): lightweight Modbus RTU master library for .NET
+- [usefulApp](https://github.com/Ledrunning/usefulApp): microservices with CI (GitHub Actions)
+- [Image-Uploader](https://github.com/Ledrunning/Image-Uploader): REST API with web and desktop clients
 
 ## Links
-
-Website and Portfolio 
-https://ledrunning.github.io/
-
-Github mosaic
-https://ledrunning.github.io/githubvue/
-
-LinkedIn  
-https://www.linkedin.com/in/osman-mazinov/
-
-GitHub  
-https://github.com/Ledrunning
+[LinkedIn](https://www.linkedin.com/in/osman-mazinov/) · [Portfolio](https://ledrunning.github.io/)
